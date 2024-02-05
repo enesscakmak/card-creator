@@ -1,6 +1,6 @@
 # Card Creator
 
-Card Creater that takes values and image from user to create a formatted game card.
+Card Creator that takes values and image from user to create a formatted game card.
 
 <p align="center">
 <img width="60%" height="70%" src="https://github.com/enesscakmak/card-maker/assets/114193468/852c4213-fb83-4242-8b93-a86ff117584c">
